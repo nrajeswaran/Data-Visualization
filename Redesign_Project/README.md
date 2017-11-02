@@ -24,14 +24,22 @@ The data obtained from the orginial work had information on purchase intent rate
 
 ## Visualization tool
 
-The first step of the visualization redesign was to check on the behaviour of the purchase intent rate across the products for the years 2015 and 2016. In tableau, with the help of the calculative field option created the change in purchase intent rate. When a graph was plotted across the purchase intent rate and the products, below chart was obtained.
+The first step of the visualization redesign was to check on the behaviour of the purchase intent rate across the products for the years 2015 and 2016. In tableau, with the help of the calculative field option created the change in purchase intent rate. When a graph was plotted across the purchase intent rate and the products. Then to add value to the claim that consumers are bored, developed a chart with the change in purchase intent rate for years 2015 and 2016.
 
-![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Redesign_Project/Original_Work.png)
+![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Redesign_Project/version3.png)
 
-Then to add value to the claim that consumers are bored, developed a chart with the change in purchase intent rate for years 2015 and 2016.
+From the dashboard its clear that the change in purchase intent rate doesnot alone deplict the consumer behaviour. When analysed with the purchase intent rate of the individual years, we get a clear picture that the products with a negative change in purchase intent rate do not imply that the conumers are not interested in buying the products.
+
+The products with a purchase intent rate greater than 30% are those which have made their show in the market and the ones with lower purchase intent rate are emerging their way into technolgy markets. Also when you compare the purchase intent rate in the years 2015 and 2016, the products which have a negative change does not imply that consumers are bored but rather represents the fact that the market can fluctuate 5-10% which is a common scenario.
+
+The important metric to prove the claim that that the consumers are not bored with the technology is to compare the purchase intent rate with the actaul sales data. To get the sales data, a calculative field was created in tableau. The graph below was then plotted comparing the actual sales to the purchase intent rate for different products.
+
+![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Redesign_Project/Finalversion.png)
+
+The blue curve represents the actual sales of the product and the orange curve represents the change in purchase intent rate in the years 2015 and 2016. The products at the top of the blue curve depicts that they have large sales numbers when compared to the products in the bootom of the curve. When the products at the top of the blue curve is compared with the bottom of the curve, implies that the change in purchase intent rate of a product does not impact the sales of the particluar product. From this it is clear that when you check only the orange curve it deceives that the consumers are bored of buying products. But when compared with the metric- actual sales it refutes the claim that consumer are bored.
+
+## Conclusion
 
 
 
-
-In tableau, to calculate the actual sales and change in purchase intent rate- created a calulcative field to get the manipulated data. 
 
