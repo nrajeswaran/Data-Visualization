@@ -15,7 +15,7 @@ The below image is based on the survey conducted by Accenture among 28,000 consu
 ## Redesign Goal
 The goal of the redesign project is to develop a visulization which is persuasive and is capable of providing an insight on the claim in a better way when compared to the original work. 
 
-The target audience of the visualization are technology giants like apple, samsung, google devices, etc. With this visualization the targeted audience will get a clear picture on the consumer buying trends and their purchase intent rate of theit products. With this information, they can forecast the live trend of the products and plan accordingly on their product inventions.
+The target audience of the visualization are technology giants(product manufacturers) like apple, samsung, google devices, etc. With this visualization the targeted audience will get a clear picture on the consumer buying trends and their purchase intent rate of theit products. With this information, they can forecast the live trend of the products and plan accordingly on their product inventions.
 
 The redesigned visualization will refute the original claim that consumers are bored. Also, to make the claim stronger the important metrics purchase intent rate and actual sales of the products are taken into consideration.
 
@@ -32,7 +32,7 @@ From the dashboard its clear that the change in purchase intent rate doesnot alo
 
 The products with a purchase intent rate greater than 30% are those which have made their show in the market and the ones with lower purchase intent rate are emerging their way into technolgy markets. Also when you compare the purchase intent rate in the years 2015 and 2016, the products which have a negative change does not imply that consumers are bored but rather represents the fact that the market can fluctuate 5-10% which is a common scenario.
 
-The important metric to prove the claim that that the consumers are not bored with the technology is to compare the purchase intent rate with the actaul sales data. To get the sales data, a calculative field was created in tableau. The graph below was then plotted comparing the actual sales to the purchase intent rate for different products.
+The important metric to prove the claim that the consumers are not bored with the technology is to compare the purchase intent rate with the actaul sales data. To get the sales data, a calculative field was created in tableau. The graph below was then plotted comparing the actual sales to the purchase intent rate for different products.
 
 ![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Redesign_Project/Finalversion.png)
 
@@ -40,6 +40,14 @@ The blue curve represents the actual sales of the product and the orange curve r
 
 ## Conclusion
 
+The redesigned visualization is crisp on the information it provides and speaks the claim that consumers are interested with the technology growth and willing to buy cool products which delights the customers with new experiences. Even though Amazon failed to make an impact with its Firephone when it was launced in 2013, in the consecutive year one of their voice controlled smart home device popularly known as Echo with Alexa skills has emerged out to be one of the most successful consumer electronic products in the smart home market category. Thus, clarifies the fact that consumers are not bored of technology.
+
+This visualization can be better improved by including metric on consumer buying trends. With this information the targeted audience(technology product manufacturers) will get better insight on how market varies according to the consumer trends.
+
+## Reference
+
+http://uk.businessinsider.com/people-are-getting-tired-of-buying-new-devices-2016-1
+https://public.tableau.com/profile/rami3355#!/vizhome/AreConsumersBoredWithTechnology_3/Dashboard1
 
 
 
