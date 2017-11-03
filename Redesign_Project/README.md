@@ -22,7 +22,7 @@ The redesigned visualization will refute the original claim that consumers are b
 ## Data Wrangling
 The data obtained from the orginial work had information on purchase intent rate over the years 2015 and 2016, which was clean and tidy. Hence the data did not require any wrangling activities. 
 
-## Visualization tool
+## Visualization Redesign
 
 The first step of the visualization redesign was to check on the behaviour of the purchase intent rate across the products for the years 2015 and 2016. In tableau, with the help of the calculative field option created the change in purchase intent rate. When a graph was plotted across the purchase intent rate and the products. Then to add value to the claim that consumers are bored, developed a chart with the change in purchase intent rate for years 2015 and 2016.
 
