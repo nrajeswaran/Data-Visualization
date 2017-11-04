@@ -4,7 +4,7 @@ The objective is to redesign the existing visualization, critique and support/re
 ## Critique on the Visualization
 https://public.tableau.com/profile/nandini6420#!/vizhome/Lab3_Financial_Impact_NR_V3_0/Labsession3
 
-The visualization in the above mentioned tableau public link, provides data to refute the claim that financial markets do not punish data breaches. The visualization has a clear data analysis on the stock prices from the years 2004-2017. With this data, line curves have been plotted across Stock price and consecuitve years. Then, certain organisations are chosen to check on the pattern on the breach and their respective financial market. The explanation for each curveline for every organisation describes when the breach happened and how the financial market has reacted to it. 
+The visualization in the above mentioned tableau public link, provides data to refute the claim that financial markets do not punish data breaches. The visualization has a clear data analysis on the stock prices from the years 2004-2017. With this data, line curves have been plotted across Stock price and consecuitve years. Then, certain organisations are chosen to check on the pattern on the breach and their respective financial market. The explanation for each curveline for every organisation describes when the breach happened and how the financial market has reacted to it and relate it with the atrribute of record lost by the respective entity.
 
 ## Visualization Redesign
 The existing visualization can be better represented by introducing a trendline in the graphical chart so that it provides an intact view on the stock price trend through years and easy to identify how data breaches has impacted the financial market.
@@ -28,5 +28,7 @@ On analysis the stock price of Staples, until 2014 they had an upward trend but 
 ## Tableau Public Link
 https://public.tableau.com/profile/nandini6420#!/vizhome/Lab8_Financial_Impact_NR/Labsession3?publish=yes
 
+#### Redesign Final Version:
+https://public.tableau.com/profile/nandini6420#!/vizhome/Labsession7/FinancialMarketspunishSecuritybreaches?publish=yes
 ## Jupyter Notebook Link
 https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Lab_session8/Lab7Session_NR.ipynb
