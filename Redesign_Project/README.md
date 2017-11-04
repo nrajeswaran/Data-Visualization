@@ -36,7 +36,7 @@ The important metric to prove the claim that the consumers are not bored with th
 
 ![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Redesign_Project/Final_version.png)
 
-The blue curve represents the actual sales of the product and the orange curve represents the change in purchase intent rate in the years 2015 and 2016. The products at the top of the blue curve depicts that they have large sales numbers when compared to the products in the bootom of the curve. When the products at the top of the blue curve is compared with the bottom of the curve, implies that the change in purchase intent rate of a product does not impact the sales of the particluar product. From this it is clear that when you check only the orange curve it deceives that the consumers are bored of buying products. But when compared with the metric- actual sales it refutes the claim that consumer are bored.
+The blue curve represents the actual sales of the product and the orange curve represents the change in purchase intent rate in the years 2015 and 2016. The products at the top of the blue curve depicts that they have large sales numbers when compared to the products in the bottom of the curve. When the products at the top of the blue curve is compared with the bottom of the orange curve, implies that the change in purchase intent rate of a product does not impact the sales of the particluar product. From this it is clear that when you check only the orange curve it deceives that the consumers are bored of buying products. But when compared with the metric- actual sales it refutes the claim that consumers are bored.
 
 ## Conclusion
 
