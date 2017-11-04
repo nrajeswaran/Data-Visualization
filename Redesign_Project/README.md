@@ -34,7 +34,7 @@ The products with a purchase intent rate greater than 30% are those which have m
 
 The important metric to prove the claim that the consumers are not bored with the technology is to compare the purchase intent rate with the actaul sales data. To get the sales data, a calculative field was created in tableau. The graph below was then plotted comparing the actual sales to the purchase intent rate for different products.
 
-![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Redesign_Project/Finalversion.png)
+![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Redesign_Project/Final_version.png)
 
 The blue curve represents the actual sales of the product and the orange curve represents the change in purchase intent rate in the years 2015 and 2016. The products at the top of the blue curve depicts that they have large sales numbers when compared to the products in the bootom of the curve. When the products at the top of the blue curve is compared with the bottom of the curve, implies that the change in purchase intent rate of a product does not impact the sales of the particluar product. From this it is clear that when you check only the orange curve it deceives that the consumers are bored of buying products. But when compared with the metric- actual sales it refutes the claim that consumer are bored.
 
