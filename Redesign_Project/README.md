@@ -44,6 +44,10 @@ The redesigned visualization is crisp on the information it provides and speaks 
 
 This visualization can be better improved by including metric on consumer buying trends. With this information the targeted audience(technology product manufacturers) will get better insight on how market varies according to the consumer trends.
 
+## Video Link
+
+https://drive.google.com/a/scu.edu/file/d/0B0FRCLzgQXn-MHNEQjNEbl9nX0k/view?usp=sharing
+
 ## Reference
 
 http://uk.businessinsider.com/people-are-getting-tired-of-buying-new-devices-2016-1
