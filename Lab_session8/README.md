@@ -6,7 +6,7 @@ https://public.tableau.com/profile/nandini6420#!/vizhome/Lab3_Financial_Impact_N
 
 The visualization in the above mentioned tableau public link, provides data to refute the claim that financial markets do not punish data breaches. The visualization has a clear data analysis on the stock prices from the years 2004-2017. With this data, line curves have been plotted across Stock price and consecuitve years. Then, certain organisations are chosen to check on the pattern on the breach and their respective financial market. The explanation for each curveline for every organisation describes when the breach happened but has missed to compare the decline in the stock price with the record lost by the respective entity which adds in value to the claim. Adding a trend line to the visualization can add aesthetic value to it.
 
-## Roadmap for improvement
+## Visulaization Redesign
 The existing visualization can be better represented by introducing a trendline in the graphical chart so that it provides an intact view on the stock price trend through years and easy to identify how data breaches has impacted the financial market.
 ![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Lab_session8/Staples_Viz.png)
 
@@ -24,6 +24,7 @@ The visualisation can be better improved when compared across the records lost f
 On analysis the stock price of Staples, until 2014 they had an upward trend but after the security breach they never came up. Staples could be an exception, but it can be claimed financial markets do punish security breaches in certain scenarios like this.
 ![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Lab_session8/Staples_Data.png)
 
+## Raodmap for improvement
 The roadmap for improvement in the visualization is that, multiple entities on this scenario need to be showcased in the dashboard to support the claim that Financial markets punish security breaches.
 
 ## Tableau Public Link
