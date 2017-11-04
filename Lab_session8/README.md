@@ -25,3 +25,6 @@ The trendline addition to the visualization adds in aesthetic value and clearly 
 
 ## Tableau Public Link
 https://public.tableau.com/profile/nandini6420#!/vizhome/Lab8_Financial_Impact_NR/Labsession3?publish=yes
+
+## Jupyter Notebook Link
+https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Lab_session8/Lab7Session_NR.ipynb
