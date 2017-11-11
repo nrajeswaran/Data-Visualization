@@ -19,4 +19,5 @@ https://public.tableau.com/profile/nandini6420#!/vizhome/LabSession8_SCU_MSIS/Da
 
 #### Jupyter notebook for data scrapping
 https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Lab8_SCU_MSIS/Lab8_DataScrapping_NR.ipynb
+
 Note: Only the data realated to the claim is only used to develop the metrics
