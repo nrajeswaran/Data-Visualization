@@ -26,6 +26,9 @@ To avoid such deceiving visualizations, when the CO2 emissions data is represent
 
 The roadmap of improvement for the visualization would be integrating more data on CO2 emissions so that the Key Performance Indicator will be identified, hence will help audience to act accordingly.
 
+## Summary
+The project on creating the deceptive visualisation has taught on how to handle the data. When the data is mishandled, it results in hiding the actual facts and deceive the audience on the metric and claim represented. Hence, the lesson learnt from the project to handle the data carefully and not to deceive the audience with misleading facts.
+
 ## Refernces
 https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&start=1960&view=chart
 https://www.esrl.noaa.gov/gmd/news/7074.html
