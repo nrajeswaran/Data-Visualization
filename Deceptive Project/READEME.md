@@ -1,3 +1,4 @@
+# CO2 Emissions(metric ton per capita)
 ## Introduction
 The Data Visualization can be deceiving if the facts are derived by data manipulation. The objective of the project is to purposely distort the data and create a deceptive visualization. The project is on the dataset published by the world data bank on the worldwide CO2 emissions(metric ton per capita). The target audience for this visualization is the government organization of every country, this visualization will be useful to them as they can impose rules and regulations to control CO2 emmissions which is a major metric for climate change
 
