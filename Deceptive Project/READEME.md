@@ -13,7 +13,7 @@ The critique on this visualization is that, the graph gives a generic view on th
 ## Deceptive Version
 The plotted graph can be made deceptive to the audience by filtering out the outliers ie., the countries like Russia, Middle East countries and few developing nations like India and China contribute huge percentage to the CO2 emissions. When these countires are filtered out from the plot, as graph shows that CO2 emissions decreases which refutes the claim. This graph complete deceives the audience as it showcases a lean drop in the emissions after 2010. This deception is achieved by hiding the fact of the countries having huge CO2 emissions.
 
-![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Deceptive%20Project/Deceptive_Viz.png)
+![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Deceptive%20Project/DeceptiveViz.png)
 
 ## Roadmap for improvement
 To avoid such deceiving visualizations, when the CO2 emissions data is represented in the geographically it gives clear picture to the audience on the action to be taken. The below visualizations clearly protrays the change in the CO2 emissions in different countries. The regions coloured in yellow represent the CO2 emissions less that 50.0 metric per capita and the greener regions have comparitively more CO2 emissions.
