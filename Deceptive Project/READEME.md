@@ -36,7 +36,6 @@ https://www.esrl.noaa.gov/gmd/news/7074.html
 
 ### Tableau Public Link
 https://public.tableau.com/profile/nandini6420#!/vizhome/Deceptive_Project/Story1?publish=yes
-
 #### Jupyter Notebook - Data Wrangling
 https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Deceptive%20Project/Deceptive_Project.ipynb
 
