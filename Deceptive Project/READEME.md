@@ -1,17 +1,17 @@
 ## Introduction
-The Data Visualization can be deceiving if the facts derived by manipulating the data produce misleading visualizations. The objective of the project is to purposely distort the data and create a deceptive visualization. The project is on the dataset published by the world data bank on the worldwide CO2 emissions(metric ton per capita). The target audience for this visualization is the government organization of every country, this visualization will be useful to them as they can impose rules and regulations to control CO2 emmissions which is a major metric for climate change
+The Data Visualization can be deceiving if the facts are derived by data manipulation. The objective of the project is to purposely distort the data and create a deceptive visualization. The project is on the dataset published by the world data bank on the worldwide CO2 emissions(metric ton per capita). The target audience for this visualization is the government organization of every country, this visualization will be useful to them as they can impose rules and regulations to control CO2 emmissions which is a major metric for climate change
 
 ## Visualization on the Dataset
 With the dataset on CO2 emmissions worlwide, the first decision was to plot the graph to check how CO2 emissions has changed over the years. 
 
 ![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Deceptive%20Project/Controlled_Viz.png)
 
-From the plotted graph it showcases the fact that, CO2 emissions are increasing over the years. The scientific study also says that the rate in which CO2 emissions increase is 100times faster than the increase that occured last ice age. This clarifies the claim the CO2 emissions are increasing over the years and necessary measures are to be taken to control it. 
+From the plotted graph it showcases the fact that, CO2 emissions are increasing over the years. The scientific study also says that the rate in which CO2 emissions increased in recent years is 100times faster than the increase that occured last ice age. This clarifies the claim that CO2 emissions are increasing over the years and necessary measures are to be taken to control it. 
 
 The critique on this visualization is that, the graph gives a generic view on the average CO2 emissions worldwide across the years. With the audience being government organization of each country, it is necessary for them to understand how their country perform on the emission. Hence the improved visualization for the graph, will the geographic representation of the data. 
 
 ## Deceptive Version
-The plotted graph can be made deceptive to the audience by filtering out the outliers ie., the countries like Russia, Middle East countries and few developing nations like India and China contribute huge percentage to the CO2 emissions. When these countires are filtered out from the plot, as graph shows that CO2 emissions decreases which refutes the claim. This graph complete deceives the audience as it showcases a lean drop in the emissions after 2010. This deception is achieved by hiding the fact of the countries having huge CO2 emissions.
+The plotted graph can be made deceptive to the audience by filtering out the outliers ie., the countries like Russia and Middle East countries contribute huge percentage to the CO2 emissions. When these countires are filtered out from the plot, as graph shows that CO2 emissions decreases which refutes the claim. This graph complete deceives the audience as it showcases a lean drop in the emissions after 2010. This deception is achieved by hiding the fact of the countries having huge CO2 emissions.
 
 ![Alt text](https://github.com/nrajeswaran/Fall17_DataViz/blob/master/Deceptive%20Project/DeceptiveViz.png)
 
